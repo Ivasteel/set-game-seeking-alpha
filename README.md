@@ -65,7 +65,8 @@ set_game_project/
 │   ├── game.py           # Runs the game logic
 │── set_tests/            # Unit tests for the game logic
 │   ├── test_set.py        # Unit tests for the game logic
-│── set_ui/               # Placeholder for future UI implementation
+│── set_ui/               # Future UI implementation
+│   ├── __init__.py       # Placeholder for UI components
 │── .gitignore            # Ignore unnecessary files
 │── requirements.txt      # Python dependencies (if needed)
 │── README.md             # Documentation
