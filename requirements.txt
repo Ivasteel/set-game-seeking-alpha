@@ -1,0 +1,4 @@
+# 📌 Dependencies for the Set Game Project
+
+# Required dependencies
+pytest            # For running unit tests, tested on pytest==8.1.1
