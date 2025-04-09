@@ -1,4 +1,4 @@
-# 🃏 Set Game - Python Implementation for Seeking Alpha :)
+# 🃏 Set Game - Python Implementation
 
 A Python implementation of the **Set** card game, where the program:
 - **Draws three unique cards** from a deck of 81 unique cards.
